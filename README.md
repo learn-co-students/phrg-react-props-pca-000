@@ -159,3 +159,4 @@ Now, whenever we omit the `poster` prop, or if it's undefined, the `MovieCard` c
 - [Babel: transform-class-properties](http://babeljs.io/docs/plugins/transform-class-properties/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-props'>Props</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React props</p>
