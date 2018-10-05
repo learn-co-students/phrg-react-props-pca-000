@@ -2,6 +2,8 @@
 
 ## Overview
 
+Made a smol change to submit :)
+
 We'll cover props and show how they help us make our components more dynamic and reusable. 
 
 ## Objectives
